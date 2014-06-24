@@ -4,6 +4,20 @@ gem 'rake', '~>10.2'
 gem 'minitest', '~>5.3'
 gem 'uuid', '~>2.3'
 
+# testing
+gem 'minitest', '~>5.3'
+# gem install rspec
+
+# etc
+# gem install nokogiri
+# gem install WikiCreole
+
+# commander
+gem install commander
+gem install ansi
+gem install win32console
+
+# debugging
+gem 'byebug'
 # gem 'pry'
 # gem 'pry-debugger' # need to be built with DevKit
-gem 'byebug'
